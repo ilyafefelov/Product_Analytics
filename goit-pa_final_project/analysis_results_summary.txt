@@ -1,0 +1,112 @@
+======================================================================
+A/B TEST ANALYSIS RESULTS SUMMARY
+Final Project - Product Analytics
+Author: Fefelov
+Date: November 6, 2025
+======================================================================
+
+AGGREGATE METRICS
+----------------------------------------------------------------------
+Control Group (29 days):
+  Total Spend: $66,818.00
+  Total Clicks: 154,303.0
+  Total Purchases: 15,161.0
+  CTR: 4.857%
+  Cart→Purchase: 40.21%
+  Cost per Purchase: $4.41
+
+Test Group (30 days):
+  Total Spend: $76,892.00
+  Total Clicks: 180,970
+  Total Purchases: 15,637
+  CTR: 8.088%
+  Cart→Purchase: 59.13%
+  Cost per Purchase: $4.92
+
+
+======================================================================
+STATISTICAL SIGNIFICANCE (T-Tests)
+----------------------------------------------------------------------
+
+Daily Spend:
+  Control Mean: 2304.0690
+  Test Mean: 2563.0667
+  t-statistic: -2.7912
+  p-value: 0.007143
+  Significant (α=0.05): YES
+
+Daily Impressions:
+  Control Mean: 109559.7586
+  Test Mean: 74584.8000
+  t-statistic: 4.9161
+  p-value: 0.000010
+  Significant (α=0.05): YES
+
+Daily Clicks:
+  Control Mean: 5320.7931
+  Test Mean: 6032.3333
+  t-statistic: -1.5761
+  p-value: 0.120549
+  Significant (α=0.05): NO
+
+Daily Searches:
+  Control Mean: 2221.3103
+  Test Mean: 2418.9667
+  t-statistic: -1.1244
+  p-value: 0.267808
+  Significant (α=0.05): NO
+
+Daily View Content:
+  Control Mean: 1943.7931
+  Test Mean: 1858.0000
+  t-statistic: 0.4740
+  p-value: 0.637430
+  Significant (α=0.05): NO
+
+Daily Add to Cart:
+  Control Mean: 1300.0000
+  Test Mean: 881.5333
+  t-statistic: 4.2375
+  p-value: 0.000087
+  Significant (α=0.05): YES
+
+Daily Purchases:
+  Control Mean: 522.7931
+  Test Mean: 521.2333
+  t-statistic: 0.0302
+  p-value: 0.976004
+  Significant (α=0.05): NO
+
+Click-Through Rate:
+  Control Mean: 0.0510
+  Test Mean: 0.1024
+  t-statistic: -3.9786
+  p-value: 0.000339
+  Significant (α=0.05): YES
+
+Cart to Purchase Rate:
+  Control Mean: 0.4572
+  Test Mean: 0.6179
+  t-statistic: -2.7604
+  p-value: 0.008443
+  Significant (α=0.05): YES
+
+Overall Conversion Rate:
+  Control Mean: 0.1148
+  Test Mean: 0.0923
+  t-statistic: 1.4900
+  p-value: 0.142786
+  Significant (α=0.05): NO
+
+======================================================================
+CONFIDENCE INTERVAL: Cart→Purchase Conversion
+----------------------------------------------------------------------
+Control Rate: 40.21%
+Test Rate: 59.13%
+Difference: 18.91 pp
+95% CI: [18.14%, 19.69%]
+Contains Zero: No (significant)
+
+======================================================================
+END OF SUMMARY
+======================================================================
