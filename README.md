@@ -14,7 +14,7 @@
 - **`goit_pa_hm_5/`** — Assignment 5: Розрахунок розміру вибірки
 - **`goit_pa_hm__6/`** — Assignment 6: LTV та когортний аналіз
 - **`goit_pa_hm_7/`** — Assignment 7: Dashboard та метрики продукту
-- **`goit_pa_hm_8/`** — Assignment 8: Рев'ю наукових публікацій (IV studies, Predictive Analytics)
+- **`Articles/`** — Article reviews (перенесено з Homework 8)
 
 ### Фінальний проект ⭐
 - **`goit-pa_final_project/`** — **A/B Test Analysis** (August 2019 Ad Campaign)
@@ -70,12 +70,12 @@ jupyter notebook "Fefelov_Final Project-4.ipynb"
 
 ---
 
-## 🧠 Домашнє завдання 8 — Рев'ю наукових публікацій
+## 🧠 Articles — Рев'ю наукових публікацій
 
-У цій роботі підготовлено дві короткі рецензії (300–500 слів) за структурою: вступ, методологія, результати, ключові інсайти, висновок.
+У цьому розділі зібрані дві короткі рецензії (300–500 слів) за структурою: вступ, методологія, результати, ключові інсайти, висновок.
 
-- Рев'ю 1: Instrumental Variables — `goit_pa_hm_8/Fefelov_Review_IV_Studies.md`
-- Рев'ю 2: Predictive Analytics for Retention — `goit_pa_hm_8/Fefelov_Review_Predictive_Analytics.md`
+- Рев'ю 1: Instrumental Variables — `Articles/Fefelov_Review_IV_Studies.md`
+- Рев'ю 2: Predictive Analytics for Retention — `Articles/Fefelov_Review_Predictive_Analytics.md`
 
 
 ---
@@ -124,3 +124,4 @@ Final Project: A/B Test Analysis (August 2019)
 ## 📝 Ліцензія
 
 Цей репозиторій призначений для навчальних цілей у рамках курсу GoIT Product Analytics.
+
