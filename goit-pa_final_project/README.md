@@ -25,9 +25,12 @@
 ```
 goit-pa_final_project/
 │
-├── README.md                              # This file
+├── README.md                              # This file - project overview
+├── requirements.txt                       # Python dependencies
+│
 ├── control_group.csv                      # Control campaign data (29 days)
 ├── test_group.csv                         # Test campaign data (30 days)
+│
 ├── final_project_analysis.py              # Main analysis script
 ├── analysis_results_summary.txt           # Generated results summary
 │
@@ -369,13 +372,14 @@ Before submitting, verify:
 - [ ] ✅ control_group.csv (Data)
 - [ ] ✅ test_group.csv (Data)
 - [ ] ✅ requirements.txt (Dependencies)
+- [ ] ✅ analysis_results_summary.txt (Generated results)
 
 ### Quality Checks
-- [ ] ✅ All calculations verified (see CALCULATION_VERIFICATION.md)
-- [ ] ✅ Marginal ROAS corrected (2.36x, not 98x)
-- [ ] ✅ Executive summaries added to Tasks 3 & 5
+- [ ] ✅ All calculations verified and correct
+- [ ] ✅ Executive summaries included in Tasks 3 & 5
 - [ ] ✅ No broken links or missing references
 - [ ] ✅ Consistent formatting across documents
+- [ ] ✅ Statistical methods properly documented
 
 ### Archive Creation
 Create `Fefelov_Final Project.zip` containing all files above.
